@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\LSMAAN\\Desktop\\VenvNer\\ActiveNerCUDA_Hindi\\Active-NER-master\\test.cpp","tests":[{"id":1671174775396,"input":"abcba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LSMAAN\\Desktop\\VenvNer\\ActiveNerCUDA_Hindi\\Active-NER-master\\test.cpp","group":"local","local":true}
